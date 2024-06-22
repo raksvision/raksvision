@@ -2,7 +2,7 @@
 # 💫 Hi, I'm Rakesh!
 - :mag:Looking for an Oppurtunity as a Software Engineer in any Reputated IT Firm.<br>
 - :mortar_board:Studied "MCA" at the Sri Venkateswara University,Tirupati.<br>
-- :man_technologist:Currently learning MERN Stack and UI/UX.<br>
+- :man_technologist:Currently learning MERN Stack, Data Analysis and UI/UX.<br>
 - :thumbsup:Also Interested in VideoEditing,3D Animation.<br>
 
 
