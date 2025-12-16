@@ -3,8 +3,8 @@
 - :mag:Looking for an Oppurtunity as a Software Engineer in any Reputated IT Firm.<br>
 - :mortar_board:Studied "MCA" at the Sri Venkateswara University,Tirupati.<br>
 - 👨‍💼Currently Working as a Network Engineer in MNC.<br>
-- :man_technologist:Currently learning Data Structures and UI/UX.<br>
-- :thumbsup:Also Interested in VideoEditing,3D Animation.<br>
+- :man_technologist:Currently learning AI/ML, Data Structures and UI/UX.<br>
+- :thumbsup:Also Interested in VideoEditing,3D Animation and Digital Art.<br>
 
 
 
