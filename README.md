@@ -14,9 +14,6 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/notion.png" alt="notion"/> <img width="48" height="48" src="https://img.icons8.com/color/48/blender-3d.png" alt="blender-3d"/>
 
 # 📊 GitHub Stats:
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=raksvision&show_icons=true&theme=dark#gh-dark-mode-only&hide=contribs,prs&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raksvision&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raksvision&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=raksvision&limit=5&theme=dark&combine_all_yearly_contributions=true)
